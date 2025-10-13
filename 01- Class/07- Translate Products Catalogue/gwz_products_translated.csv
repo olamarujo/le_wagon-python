@@ -1,0 +1,488 @@
+,category,sub_category,product
+0,Beauty & Hygiene,Cosmétique maison DIY,Homemade cosmetic recipes
+1,Beauty & Hygiene,Cosmétique maison DIY,"Ustensile, contenant DIY"
+2,Beauty & Hygiene,Douche et Bain,Bath brush and accessory
+3,Beauty & Hygiene,Douche et Bain,Galets et sels de bain
+4,Beauty & Hygiene,Douche et Bain,Gel shower
+5,Beauty & Hygiene,Douche et Bain,Savon
+6,Beauty & Hygiene,Douche et Bain,Liquid soap
+7,Beauty & Hygiene,Epilation,Cires épilatoires
+8,Beauty & Hygiene,Epilation,Crèmes dépilatoires
+9,Beauty & Hygiene,Epilation,Soins épilation
+10,Beauty & Hygiene,Hygiene,Cotons-tiges
+11,Beauty & Hygiene,Hygiene,"Adult diapers, incontinence"
+12,Beauty & Hygiene,Hygiene,Coupes menstruelles
+13,Beauty & Hygiene,Hygiene,Menstrual panties
+14,Beauty & Hygiene,Hygiene,Deodorants
+15,Beauty & Hygiene,Hygiene,Eponges Konjac
+16,Beauty & Hygiene,Hygiene,Come to my time
+17,Beauty & Hygiene,Hygiene,Handkerchiefs
+18,Beauty & Hygiene,Hygiene,Paper toilet
+19,Beauty & Hygiene,Hygiene,Towels and panty liners
+20,Beauty & Hygiene,Hygiene,Dental care
+21,Beauty & Hygiene,Hygiene,Tampons écologiques
+22,Beauty & Hygiene,Makeup,Le Teint
+23,Beauty & Hygiene,Makeup,Les Lèvres
+24,Beauty & Hygiene,Makeup,Les Ongles
+25,Beauty & Hygiene,Makeup,The Eyes
+26,Beauty & Hygiene,Makeup,Pinceaux et accessoires
+27,Beauty & Hygiene,Soins Homme,Deodorants and eau de toilette
+28,Beauty & Hygiene,Soins Homme,"Safety razor, accessories"
+29,Beauty & Hygiene,Soins Homme,Soins du visage homme
+30,Beauty & Hygiene,Soins Homme,Soins pour la Barbe
+31,Beauty & Hygiene,Soins Homme,Soins pour le rasage
+32,Beauty & Hygiene,Sun Care,Autobronzants
+33,Beauty & Hygiene,Sun Care,Baby and child sunscreens
+34,Beauty & Hygiene,Sun Care,Crèmes solaires corps
+35,Beauty & Hygiene,Sun Care,Tinted sunscreens
+36,Beauty & Hygiene,Sun Care,Facial sun creams
+37,Beauty & Hygiene,Sun Care,Monoi
+38,Beauty & Hygiene,Hair care,Natural colors
+39,Beauty & Hygiene,Hair care,Styling gel and cream
+40,Beauty & Hygiene,Hair care,2 in 1 shower shampoo
+41,Beauty & Hygiene,Hair care,Shampoo by hair type
+42,Beauty & Hygiene,Hair care,Treatment shampoo
+43,Beauty & Hygiene,Hair care,Volume and shine shampoo
+44,Beauty & Hygiene,Hair care,Hair care
+45,Beauty & Hygiene,Body care,Body sets
+46,Beauty & Hygiene,Body care,Eau de toilette and Perfume
+47,Beauty & Hygiene,Body care,Scrub
+48,Beauty & Hygiene,Body care,Vegetable and dry oils
+49,Beauty & Hygiene,Body care,Body milks
+50,Beauty & Hygiene,Body care,Slimming and firmness
+51,Beauty & Hygiene,Body care,Hand and nail care
+52,Beauty & Hygiene,Body care,Foot and leg care
+53,Beauty & Hygiene,Facial care,Face box
+54,Beauty & Hygiene,Facial care,Makeup removers and cleansers
+55,Beauty & Hygiene,Facial care,Scrubs and exfoliants
+56,Beauty & Hygiene,Facial care,"Mature skin, anti-aging"
+57,Beauty & Hygiene,Facial care,Combination to oily skin
+58,Beauty & Hygiene,Facial care,"Normal skin, moisturizing care"
+59,Beauty & Hygiene,Facial care,Dry and sensitive skin
+60,Beauty & Hygiene,Facial care,Facial Saunas
+61,Beauty & Hygiene,Facial care,Eye contour care
+62,Beauty & Hygiene,Facial care,Lip care
+63,Beauty & Hygiene,Clay Care,Ready-to-use clay
+64,Beverage,Alcohol,Organic waters and liqueurs
+65,Beverage,Alcohol,Organic spirits
+66,Beverage,Beer,White beer
+67,Beverage,Beer,Blonde beer
+68,Beverage,Beer,Dark beer
+69,Beverage,Beer,Gluten-free beer
+70,Beverage,Beer,Beer box
+71,Beverage,Instant drink,Carob powder
+72,Beverage,Instant drink,Instant preparation to drink
+73,Beverage,Vegetable drink,Rice drink
+74,Beverage,Vegetable drink,Soy drink
+75,Beverage,Vegetable drink,Hazelnut drink
+76,Beverage,Vegetable drink,Almond drink
+77,Beverage,Vegetable drink,Oat drink
+78,Beverage,Vegetable drink,Spelled drink
+79,Beverage,Vegetable drink,Chestnut drink
+80,Beverage,Vegetable drink,Coconut drink
+81,Beverage,Café,Coffee beans
+82,Beverage,Café,Ground coffee
+83,Beverage,Café,Soluble coffee
+84,Beverage,Café,Capsules compatible Nespresso ®
+85,Beverage,Café,Senséo ® compatible pods
+86,Beverage,Café,"Coffee substitutes, chicory"
+87,Beverage,Fruit juice,Organic lemon juice
+88,Beverage,Fruit juice,Organic exotic fruit juice
+89,Beverage,Fruit juice,Organic red fruit juice
+90,Beverage,Fruit juice,Sparkling apple juice
+91,Beverage,Fruit juice,Organic apple and pear juice
+92,Beverage,Fruit juice,Organic prune juice
+93,Beverage,Fruit juice,Organic grape juice
+94,Beverage,Fruit juice,Superfruit juice
+95,Beverage,Fruit juice,Apricot peach juice and nectars
+96,Beverage,Fruit juice,Jus multifruits bio
+97,Beverage,Fruit juice,Smoothies bio
+98,Beverage,Vegetable juice,Organic beet juice
+99,Beverage,Vegetable juice,Organic carrot juice
+100,Beverage,Vegetable juice,Organic sauerkraut juice
+101,Beverage,Vegetable juice,Ginger juice
+102,Beverage,Vegetable juice,organic tomato juice
+103,Beverage,Vegetable juice,Multi vegetable juice
+104,Beverage,Soda,Bio glue
+105,Beverage,Soda,Limoned cinema
+106,Beverage,Organic tea,Matcha
+107,Beverage,Organic tea,Mate
+108,Beverage,Organic tea,Rooïbos
+109,Beverage,Organic tea,White tea
+110,Beverage,Organic tea,Black tea
+111,Beverage,Organic tea,Natural green tea
+112,Beverage,Organic tea,Flavored green tea
+113,Beverage,"Tisane, Infusion",Ayurvedic herbal tea
+114,Beverage,"Tisane, Infusion",Herbal herbal tea
+115,Beverage,"Tisane, Infusion",Simple herbal tea
+116,Beverage,Wine bio,Vins blancs
+117,Beverage,Wine bio,Sparkling wines
+118,Beverage,Wine bio,Rosé wines
+119,Beverage,Wine bio,Red wines
+120,Baby & Child,Baby food,Baby cereals
+121,Baby & Child,Baby food,Baby milk desserts
+122,Baby & Child,Baby food,Baby grocery store
+123,Baby & Child,Baby food,"Snacks, baby biscuits"
+124,Baby & Child,Baby food,Baby goat milk
+125,Baby & Child,Baby food,Infant milk
+126,Baby & Child,Baby food,Small fruit pots
+127,Baby & Child,Baby food,Small vegetable pots
+128,Baby & Child,Baby food,Small vegetable cereal pots
+129,Baby & Child,Baby food,Small meat and fish pots
+130,Baby & Child,Disposable eco-friendly diapers,"Disposable diapers T1-2, 2-6 kg"
+131,Baby & Child,Disposable eco-friendly diapers,"Disposable diapers T3, 4-9 kg"
+132,Baby & Child,Disposable eco-friendly diapers,"T4+ disposable diapers, 9-20 kg"
+133,Baby & Child,Disposable eco-friendly diapers,"Disposable diapers T4, 8-14 kg"
+134,Baby & Child,Disposable eco-friendly diapers,"Disposable diapers T5-6, 11-30 kg"
+135,Baby & Child,Disposable eco-friendly diapers,"Disposable panties T4, 8-14 kg"
+136,Baby & Child,Disposable eco-friendly diapers,"Disposable panties T5, 12-18 kg"
+137,Baby & Child,Disposable eco-friendly diapers,"Disposable panties T6, 16-30 kg"
+138,Baby & Child,Disposable eco-friendly diapers,Diaper bins
+139,Baby & Child,Ecological washable diapers,Washable diapers
+140,Baby & Child,Ecological washable diapers,Washable panties
+141,Baby & Child,Ecological washable diapers,Washable diaper maintenance
+142,Baby & Child,Ecological washable diapers,"Inserts, protective sails"
+143,Baby & Child,Equipement bébé,"Baby bottles, accessories"
+144,Baby & Child,Equipement bébé,Baby awakening
+145,Baby & Child,Equipement bébé,Baby Meal
+146,Baby & Child,Equipement bébé,Baby sleep
+147,Baby & Child,Equipement bébé,"Pacifiers, pacifier clips"
+148,Baby & Child,Equipement bébé,Baby safety
+149,Baby & Child,Equipement bébé,Toilette bébé
+150,Baby & Child,Equipement bébé,Transport bébé
+151,Baby & Child,"Hygiène, soin bébé",Crème de change
+152,Baby & Child,"Hygiène, soin bébé","Enfant, hygiène et soin"
+153,Baby & Child,"Hygiène, soin bébé",Gel lavant bébé
+154,Baby & Child,"Hygiène, soin bébé","Milk, baby cleansing water"
+155,Baby & Child,"Hygiène, soin bébé",Disposable baby wipes
+156,Baby & Child,"Hygiène, soin bébé",Washable baby wipes
+157,Baby & Child,"Hygiène, soin bébé",Liniment
+158,Baby & Child,"Hygiène, soin bébé",Soin hydratant bébé
+159,Baby & Child,"Hygiène, soin bébé",Soin massage bébé
+160,Baby & Child,Toys,"Garages, circuits, vehicles"
+161,Baby & Child,Toys,Imitation games
+162,Baby & Child,Toys,Construction games
+163,Baby & Child,Toys,Board games
+164,Baby & Child,Toys,Jeux plein air
+165,Baby & Child,Toys,Educational games
+166,Baby & Child,Toys,1st age toys
+167,Baby & Child,Toys,Jouets musicaux
+168,Baby & Child,Toys,"Children's books, storytellers"
+169,Baby & Child,Toys,"Dolls, dollhouses"
+170,Baby & Child,Toys,Puzzles
+171,Baby & Child,Toys,"Tableaux, magnets"
+172,Baby & Child,Loisirs créatifs enfant,"Couture, broderie"
+173,Baby & Child,Loisirs créatifs enfant,"Découpage, assemblage"
+174,Baby & Child,Loisirs créatifs enfant,Flocons de maïs
+175,Baby & Child,Loisirs créatifs enfant,Molding
+176,Baby & Child,Loisirs créatifs enfant,"Peinture, coloriage"
+177,Baby & Child,Loisirs créatifs enfant,"Beads, ironing beads"
+178,Baby & Child,Loisirs créatifs enfant,Modeling clay
+179,Savory grocery store,Apéritifs bio,Chutney et confit
+180,Savory grocery store,Apéritifs bio,Organic dried fruits aperitif
+181,Savory grocery store,Apéritifs bio,Olives bio
+182,Savory grocery store,Apéritifs bio,Pâtés végétaux
+183,Savory grocery store,Apéritifs bio,Tartinables salés
+184,Savory grocery store,"Condiments, vinaigres","Gherkin, caper and pickle"
+185,Savory grocery store,"Condiments, vinaigres",Fleurs d'épices
+186,Savory grocery store,"Condiments, vinaigres",Ketchup et sauce BBQ
+187,Savory grocery store,"Condiments, vinaigres",Mayonnaise et aïoli
+188,Savory grocery store,"Condiments, vinaigres",Mustard
+189,Savory grocery store,"Condiments, vinaigres","Vinaigres, vinaigrettes"
+190,Savory grocery store,"Condiments, vinaigres",Wasabi et pâte de curry
+191,Savory grocery store,"Farine, son, fécule",Wheat flour
+192,Savory grocery store,"Farine, son, fécule",Farine de céréales
+193,Savory grocery store,"Farine, son, fécule",Farine de fruits
+194,Savory grocery store,"Farine, son, fécule",Farine de graines
+195,Savory grocery store,"Farine, son, fécule",Farine de légumineuses
+196,Savory grocery store,"Farine, son, fécule",Farine précuite
+197,Savory grocery store,"Farine, son, fécule","Fécule, tapioca"
+198,Savory grocery store,"Farine, son, fécule","Preparations for bread, brioche"
+199,Savory grocery store,"Farine, son, fécule",Son d'avoine
+200,Savory grocery store,"Farine, son, fécule",Wheat bran
+201,Savory grocery store,Graines et oléagineux,Sprouting seeds and mixes
+202,Savory grocery store,Huiles alimentaires bio,Huile d'amande
+203,Savory grocery store,Huiles alimentaires bio,Huile d'argan
+204,Savory grocery store,Huiles alimentaires bio,Olive oil
+205,Savory grocery store,Huiles alimentaires bio,Coconut oil
+206,Savory grocery store,Huiles alimentaires bio,Rapeseed oil
+207,Savory grocery store,Huiles alimentaires bio,Huile de fruits
+208,Savory grocery store,Huiles alimentaires bio,Huile de graines
+209,Savory grocery store,Huiles alimentaires bio,Lin who is back
+210,Savory grocery store,Huiles alimentaires bio,Huile de noix
+211,Savory grocery store,Huiles alimentaires bio,Huile de pépins
+212,Savory grocery store,Huiles alimentaires bio,Sesame oil
+213,Savory grocery store,Huiles alimentaires bio,Sunflower oil
+214,Savory grocery store,Huiles alimentaires bio,Mélanges d'huiles
+215,Savory grocery store,Légumes et conserves ,Légumes cuisinés
+216,Savory grocery store,Légumes et conserves ,Légumes en conserve
+217,Savory grocery store,Légumes et conserves ,Légumes séchés
+218,Savory grocery store,Légumes et conserves ,Miso
+219,Savory grocery store,Légumes et conserves ,Purées bio
+220,Savory grocery store,Légumes et conserves ,Soupes bio
+221,Savory grocery store,Legumes and cereals,Légumineuses
+222,Savory grocery store,Legumes and cereals,Legume cereal mixes
+223,Savory grocery store,Legumes and cereals,Organic Quinoa
+224,Savory grocery store,Legumes and cereals,"Semolina, Bulgur, Couscous"
+225,Savory grocery store,Legumes and cereals,Military
+226,Savory grocery store,Ready meals,Baked pancakes and falafel
+227,Savory grocery store,Ready meals,"Ready meals cereals, vegetables"
+228,Savory grocery store,Ready meals,Cooked meat and fish dishes
+229,Savory grocery store,Ready meals,Organic salads
+230,Savory grocery store,Ready meals,Tofu it singinan
+231,Savory grocery store,"Fish, meat, pâtés",Meat terrines and pâtés
+232,Savory grocery store,Organic pasta,White Pasta
+233,Savory grocery store,Organic pasta,Cereal pasta
+234,Savory grocery store,Organic pasta,Wholemeal pasta
+235,Savory grocery store,Organic pasta,Legume pasta
+236,Savory grocery store,Organic pasta,Half wholemeal pasta
+237,Savory grocery store,Organic pasta,Flavored pastes
+238,Savory grocery store,Organic rice,"Riz Basmati, Thai, Jasmin"
+239,Savory grocery store,Organic rice,Quick cooking rice
+240,Savory grocery store,Organic rice,Riz long grain
+241,Savory grocery store,Organic rice,Fragrant rice
+242,Savory grocery store,Organic rice,Round rice
+243,Savory grocery store,Organic rice,"Red rice, black rice, wild rice"
+244,Savory grocery store,Sauces and coulis,Sauces
+245,Savory grocery store,"Salt, spices, culinary aid",Epices
+246,Savory grocery store,"Salt, spices, culinary aid",Gomasio
+247,Savory grocery store,"Salt, spices, culinary aid",Herbs and aromatics
+248,Savory grocery store,"Salt, spices, culinary aid",Brewer's yeast and wheat germ
+249,Savory grocery store,"Salt, spices, culinary aid",Pepper
+250,Savory grocery store,"Salt, spices, culinary aid",Sels
+251,Sweet grocery store,Baking help,"Ferments, rennet"
+252,Sweet grocery store,Baking help,Pastry ingredients
+253,Sweet grocery store,Baking help,Yeast and gelling agent
+254,Sweet grocery store,"Cereal bar, almond paste","Almond paste, fruit"
+255,Sweet grocery store,"Cookies, Cakes",Fruit cookie
+256,Sweet grocery store,"Cookies, Cakes",Caramel and vanilla biscuit
+257,Sweet grocery store,"Cookies, Cakes",Dried fruit and cereal biscuit
+258,Sweet grocery store,"Cookies, Cakes",Biscuit nature
+259,Sweet grocery store,"Cookies, Cakes",Breakfast biscuit
+260,Sweet grocery store,"Cookies, Cakes",Biscuit sans gluten
+261,Sweet grocery store,"Cookies, Cakes",Cakes
+262,Sweet grocery store,"Cookies, Cakes",Madeleine and soft
+263,Sweet grocery store,Organic chocolate,Milk chocolate
+264,Sweet grocery store,Organic chocolate,White chocolate
+265,Sweet grocery store,Organic chocolate,Raw chocolate
+266,Sweet grocery store,Organic chocolate,Holiday chocolate
+267,Sweet grocery store,Organic chocolate,Dark chocolate
+268,Sweet grocery store,Organic chocolate,Pastry chocolate
+269,Sweet grocery store,Organic chocolate,Truffle and chocolate bite
+270,Sweet grocery store,Compote and dessert,Dessert and ice cream
+271,Sweet grocery store,Organic confectionery,Caramel
+272,Sweet grocery store,Organic confectionery,Chewing-gums
+273,Sweet grocery store,Organic confectionery,Marshmallow
+274,Sweet grocery store,Organic confectionery,Nougat
+275,Sweet grocery store,Organic confectionery,Pastille
+276,Sweet grocery store,Organic confectionery,Herbal teas to suck
+277,Sweet grocery store,Breakfast cereals,Puffed cereal
+278,Sweet grocery store,Breakfast cereals,"Flakes, cereal petals"
+279,Sweet grocery store,Breakfast cereals,Cereal Flakes
+280,Sweet grocery store,Breakfast cereals,Granola
+281,Sweet grocery store,Breakfast cereals,"Granola, Crunchy, Krounchy"
+282,Sweet grocery store,Breakfast cereals,Chocolate muesli
+283,Sweet grocery store,Breakfast cereals,Fruit muesli
+284,Sweet grocery store,Breakfast cereals,Muesli nature
+285,Sweet grocery store,Breakfast cereals,Instant breakfast
+286,Sweet grocery store,Breakfast cereals,Porridge
+287,Sweet grocery store,Dried fruits,Dried fruit powder
+288,Sweet grocery store,Dried fruits,Dried nut
+289,Sweet grocery store,Dried fruits,Dried fruit
+290,Sweet grocery store,Dried fruits,Freeze-dried fruits
+291,Sweet grocery store,Honey and jam,Organic honeys
+292,Sweet grocery store,Dried fruit puree,Peanut puree
+293,Sweet grocery store,Dried fruit puree,Seed puree
+294,Sweet grocery store,Dried fruit puree,Hazelnut puree
+295,Sweet grocery store,Dried fruit puree,Cashew puree
+296,Sweet grocery store,Dried fruit puree,Pistachio puree
+297,Sweet grocery store,Dried fruit puree,Sesame puree
+298,Sweet grocery store,spread,Milk chocolate spread
+299,Sweet grocery store,spread,Dark chocolate spread
+300,Sweet grocery store,spread,Chocolate-free spread
+301,Sweet grocery store,spread,Milk-free spread
+302,Sweet grocery store,Sugar and sweetener,Natural sweetener
+303,Sweet grocery store,Toasts and rusks,"Crunchy toast, rusk"
+304,Outside,Animal shelters,Insect hotels
+305,Outside,Animal shelters,"Hives, bee shelters"
+306,Outside,Aménagement extérieur,Garden cabinet
+307,Outside,Aménagement extérieur,Etendoir à linge
+308,Outside,Animalerie,Alimentation Chats
+309,Outside,Animalerie,Alimentation Chiens
+310,Outside,Animalerie,Hygiene and Animal Care
+311,Outside,Carrés potagers,Indoor vegetable gardens and seeds
+312,Outside,Carrés potagers,Pots géotextiles
+313,Outside,Carrés potagers,Tables de culture
+314,Outside,Composteurs,Lombricomposteur
+315,Outside,Composteurs,"Trash can, compost bucket"
+316,Outside,Eclairage d'extérieur,Outdoor decorative lighting
+317,Outside,Energy,Economie d'énergie
+318,Outside,Energy,Piles rechargeables
+319,Outside,"Seeds to sow, seeds","Herbs, aromatics to sow"
+320,Outside,"Seeds to sow, seeds","Leafy vegetables, salads"
+321,Outside,"Seeds to sow, seeds","Légumes fruits, tomates"
+322,Outside,"Seeds to sow, seeds","Légumes grains, gousses "
+323,Outside,"Seeds to sow, seeds",Légumes racines
+324,Outside,"Seeds to sow, seeds",Semences de gazon
+325,Outside,Gardening,Appareils de mesure
+326,Outside,Gardening,Watering
+327,Outside,Gardening,Fertilizer
+328,Outside,Gardening,Fongicides
+329,Outside,Gardening,Outils de jardinage
+330,Outside,Gardening,Soils
+331,Outside,Jeux et mobilier Enfant,Bac à sable
+332,Outside,Jeux et mobilier Enfant,"Cabane, maisonnette"
+333,Outside,Jeux et mobilier Enfant,Children's garden furniture
+334,Outside,Jeux et mobilier Enfant,"Portique, balançoire"
+335,Outside,Lutte biologique,Nématodes
+336,Outside,Lutte biologique,Anti-pest pheromones
+337,Outside,Lutte biologique,Pièges anti-nuisibles
+338,Outside,Lutte biologique,Répulsifs
+339,Outside,Mobilier d'extérieur,Barbecue et four solaire
+340,Outside,Mobilier d'extérieur,Chaise de jardin
+341,Outside,Mobilier d'extérieur,Douche de jardin solaire
+342,Outside,Mobilier d'extérieur,Fauteuil suspendu
+343,Outside,Mobilier d'extérieur,Hamac et accessoires
+344,Outside,Mobilier d'extérieur,"Pergola, tonnelle"
+345,Outside,Mobilier d'extérieur,Garden furniture
+346,Outside,Mobilier d'extérieur,Table de jardin
+347,Outside,Painting and wood treatment,Traitement du bois
+348,Outside,"Réparer, bricoler",Tools
+349,Maison,Filter jug ​​and fountain,Fontaine filtrante
+350,Maison,Filter jug ​​and fountain,Perle de céramique
+351,Maison,Conservation,Boite de conservation
+352,Maison,Conservation,Conservation sous vide
+353,Maison,Conservation,Emballage réutilisable
+354,Maison,Conservation,Gouge
+355,Maison,Conservation,Mug isotherme
+356,Maison,Conservation,Paper and cling film
+357,Maison,Conservation,Takeaway Meals
+358,Maison,Conservation,Storage bag
+359,Maison,Cooking,Low temperature cooking
+360,Maison,Cooking,User-friendly cooking
+361,Maison,Cooking,Steam cooking
+362,Maison,Cooking,Pan and saucepan
+363,Maison,Decoration,Children's room decoration
+364,Maison,Decoration,Christmas decoration
+365,Maison,Decoration,Wall decoration
+366,Maison,Decoration,Textile decoration
+367,Maison,Decoration,Gift wrapping
+368,Maison,Decoration,Flower and plant
+369,Maison,Decoration,Luminaire
+370,Maison,Decoration,Decorative object
+371,Maison,Water saving,Faucet savers
+372,Maison,Water saving,Shower filters
+373,Maison,Water saving,Faucet water filters
+374,Maison,Household appliances,Breakfast appliance
+375,Maison,Household appliances,Air treatment
+376,Maison,Interview,Anti insects
+377,Maison,Interview,Ecological drugstore
+378,Maison,Interview,Deodorant
+379,Maison,Interview,Ecological laundry detergent
+380,Maison,Interview,Multi-purpose cleaner
+381,Maison,Interview,Dishwashing product
+382,Maison,Interview,Marseille soap
+383,Maison,Interview,Household black soap
+384,Maison,Interview,Laundry care
+385,Maison,Office supply,Writing
+386,Maison,Office supply,Stationery
+387,Maison,Office supply,Small supply
+388,Maison,Household linens,Bed linen
+389,Maison,Household linens,Baby and child bed linen
+390,Maison,Household linens,Table linen
+391,Maison,Bedding,Children's duvet
+392,Maison,Bedding,Mattress and box spring set
+393,Maison,Bedding,Mattress
+394,Maison,Bedding,Baby and child mattresses
+395,Maison,Bedding,"Pillow, bolster"
+396,Maison,Bedding,"Mattress protector, mattress protector"
+397,Maison,Bedding,Box spring
+398,Maison,Bedding,Mattress topper
+399,Maison,Indoor furniture,Storage furniture
+400,Maison,Indoor furniture,Bedroom furniture
+401,Maison,Indoor furniture,Children's bedroom furniture
+402,Maison,Indoor furniture,Office furniture
+403,Maison,Indoor furniture,Bathroom furniture
+404,Maison,Indoor furniture,Dining room furniture
+405,Maison,Indoor furniture,Living room furniture
+406,Maison,Indoor furniture,Wood stoves
+407,Maison,Kitchen utensil,"Wring, clean"
+408,Maison,Kitchen utensil,Sprouter
+409,Maison,Kitchen utensil,Pasta machine and accessory
+410,Maison,Kitchen utensil,"Measure, weigh"
+411,Maison,Kitchen utensil,"Mix, whisk"
+412,Maison,Kitchen utensil,"Squeeze, crush"
+413,Maison,Kitchen utensil,Pastry shop
+414,Maison,Tableware and tableware,Plate
+415,Maison,Tableware and tableware,Around wine and aperitifs
+416,Maison,Tableware and tableware,"Pain, tasse, mug"
+417,Maison,Tableware and tableware,Covered
+418,Maison,Tableware and tableware,Teapot and coffee maker
+419,Maison,Tableware and tableware,Glass
+420,"Fashion, Sports, Leisure, Books",Luggage storage,"Wallet, purse"
+421,"Fashion, Sports, Leisure, Books",Luggage storage,Cooler bag
+422,"Fashion, Sports, Leisure, Books",Luggage storage,"Sac ordinateur, tablette"
+423,"Fashion, Sports, Leisure, Books",Luggage storage,Backpack
+424,"Fashion, Sports, Leisure, Books",Luggage storage,"Sac à main, pochette"
+425,"Fashion, Sports, Leisure, Books",Library,Livres Cuisine et vins
+426,"Fashion, Sports, Leisure, Books",Library,Livres Loisirs et nature
+427,"Fashion, Sports, Leisure, Books",Hobbies,Creative hobbies
+428,"Fashion, Sports, Leisure, Books",Mobilité douce,Remorques vélo
+429,"Fashion, Sports, Leisure, Books",Mobilité douce,Trottinettes pour adulte
+430,"Fashion, Sports, Leisure, Books",Mobilité douce,Trottinettes pour enfant
+431,"Fashion, Sports, Leisure, Books",Mobilité douce,Vélos pour adulte
+432,"Fashion, Sports, Leisure, Books",Mobilité douce,Children's bikes
+433,"Fashion, Sports, Leisure, Books",Mode Bébé 0-36 mois,Baby bodysuit
+434,"Fashion, Sports, Leisure, Books",Mode Bébé 0-36 mois,"Slipper, baby sock"
+435,"Fashion, Sports, Leisure, Books",Mode Bébé 0-36 mois,Baby pajamas
+436,"Fashion, Sports, Leisure, Books",Mode Bébé 0-36 mois,Vêtement anti-UV bébé
+437,"Fashion, Sports, Leisure, Books",Mode Enfant,Child shoe
+438,"Fashion, Sports, Leisure, Books",Mode Enfant,Robe enfant
+439,"Fashion, Sports, Leisure, Books",Mode Enfant,Children's t-shirt
+440,"Fashion, Sports, Leisure, Books",Women's Fashion,Women's jewelry
+441,"Fashion, Sports, Leisure, Books",Women's Fashion,"Jean, pantalon femme"
+442,"Fashion, Sports, Leisure, Books",Women's Fashion,"Jupe, short femme"
+443,"Fashion, Sports, Leisure, Books",Women's Fashion,"Robe, combinaison femme"
+444,"Fashion, Sports, Leisure, Books",Women's Fashion,Sous-vêtement femme
+445,"Fashion, Sports, Leisure, Books",Women's Fashion,Vêtement de grossesse
+446,"Fashion, Sports, Leisure, Books",Men's Fashion,Chaussure homme
+447,"Fashion, Sports, Leisure, Books",Men's Fashion,"Chemise, polo homme"
+448,"Fashion, Sports, Leisure, Books",Men's Fashion,"Jean, pantalon homme"
+449,"Fashion, Sports, Leisure, Books",Men's Fashion,T-shirts homme
+450,"Fashion, Sports, Leisure, Books",Men's Fashion,Vêtement de sport homme
+451,"Fashion, Sports, Leisure, Books",Sports,Ballons d'exercice
+452,"Fashion, Sports, Leisure, Books",Sports,Walking poles and accessories
+453,"Fashion, Sports, Leisure, Books",Sports,Pilates et Fitness
+454,"Fashion, Sports, Leisure, Books",Sports,"Surf, natation"
+455,"Fashion, Sports, Leisure, Books",Sports,Yoga
+456,Health & Well-being,Aromatherapy,Essential oils
+457,Health & Well-being,CBD,Huiles CBD
+458,Health & Well-being,CBD,Infusions et thés CBD
+459,Health & Well-being,Food supplements,"Circulation, Light legs"
+460,Health & Well-being,Food supplements,Baby and child food supplement
+461,Health & Well-being,Food supplements,"Urinary comfort, sexuality, hormonal balance"
+462,Health & Well-being,Food supplements,"Heart, cholesterol, nervous system"
+463,Health & Well-being,Food supplements,"Digestion, transit, flore"
+464,Health & Well-being,Food supplements,"Minceur, détox"
+465,Health & Well-being,Food supplements,"Peau, ongles, cheveux"
+466,Health & Well-being,Food supplements,"Relaxation, serenity, memory"
+467,Health & Well-being,Food supplements,"Breathing, ENT sphere, allergies"
+468,Health & Well-being,Food supplements,"Vision, yeux"
+469,Health & Well-being,Food supplements,"Vitalité, énergie"
+470,Health & Well-being,"Massages, Physiotherapy, Medical",Massages
+471,Health & Well-being,"Massages, Physiotherapy, Medical",Medical Equipment
+472,Health & Well-being,Parapharmacy,"Antiseptics, anti-bacterials"
+473,Health & Well-being,Parapharmacy,"Burns, bumps and blows"
+474,Health & Well-being,Parapharmacy,Muscle and joint pain
+475,Health & Well-being,Parapharmacy,"Gels, masques"
+476,Health & Well-being,Parapharmacy,"Headache, motion sickness"
+477,Health & Well-being,Parapharmacy,Dressings
+478,Health & Well-being,Parapharmacy,Sexuality
+479,Health & Well-being,"Phytotherapy, gemmotherapy",Extraits de plantes
+480,Health & Well-being,"Phytotherapy, gemmotherapy",Bach flowers
+481,Health & Well-being,"Phytotherapy, gemmotherapy","Infusions, thés santé"
+482,Health & Well-being,Bee products,Miel santé
+483,Health & Well-being,Bee products,Pollen
+484,Health & Well-being,Bee products,Propolis
+485,Health & Well-being,"Relaxation, Relaxation, Sleep",Hot water bottles
+486,Health & Well-being,"Relaxation, Relaxation, Sleep",Heating pads
